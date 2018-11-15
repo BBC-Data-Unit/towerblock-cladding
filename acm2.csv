@@ -1,0 +1,26 @@
+type,remediation,number
+Private residential,Completed,3
+Private residential,Started,11
+Private residential,Plan in place,66
+Private residential,Developing plans,49
+Private residential,Plan unclear,70
+Social housing,Completed,28
+Social housing,Started,87
+Social housing,Plan in place,40
+Social housing,Developing plans,4
+Social housing,Plan unclear,0
+Student,Completed,16
+Student,Started,10
+Student,Plan in place,18
+Student,Developing plans,0
+Student,Plan unclear,17
+Hotels,Completed,0
+Hotels,Started,0
+Hotels,Plan in place,14
+Hotels,Developing plans,0
+Hotels,Plan unclear,15
+Hospitals/schools*,Completed,0
+Hospitals/schools*,Started,2
+Hospitals/schools*,Plan in place,5
+Hospitals/schools*,Developing plans,0
+Hospitals/schools*,Plan unclear,2
